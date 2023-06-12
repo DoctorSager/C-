@@ -1,0 +1,15 @@
+/Users/macbook/Desktop/C#/bin/Debug/net7.0/C#
+/Users/macbook/Desktop/C#/bin/Debug/net7.0/C#.deps.json
+/Users/macbook/Desktop/C#/bin/Debug/net7.0/C#.runtimeconfig.json
+/Users/macbook/Desktop/C#/bin/Debug/net7.0/C#.dll
+/Users/macbook/Desktop/C#/bin/Debug/net7.0/C#.pdb
+/Users/macbook/Desktop/C#/obj/Debug/net7.0/C#.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/C#/obj/Debug/net7.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/C#/obj/Debug/net7.0/C#.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/C#/obj/Debug/net7.0/C#.AssemblyInfo.cs
+/Users/macbook/Desktop/C#/obj/Debug/net7.0/C#.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/C#/obj/Debug/net7.0/C#.dll
+/Users/macbook/Desktop/C#/obj/Debug/net7.0/refint/C#.dll
+/Users/macbook/Desktop/C#/obj/Debug/net7.0/C#.pdb
+/Users/macbook/Desktop/C#/obj/Debug/net7.0/C#.genruntimeconfig.cache
+/Users/macbook/Desktop/C#/obj/Debug/net7.0/ref/C#.dll
